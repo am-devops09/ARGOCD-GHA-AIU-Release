@@ -6,7 +6,7 @@ annotations:
     argocd-image-updater.argoproj.io/write-back-method: git
     argocd-image-updater.argoproj.io/git-branch: main
     # argocd-image-updater.argoproj.io/write-back-target: argocd
-    argocd-image-updater.argoproj.io/image-list: my-image=mveyone/argocd
+    argocd-image-updater.argoproj.io/image-list: my-image=mveyone/argocd-release
     argocd-image-updater.argoproj.io/my-image.update-strategy: latest
 spec:
   destination:
