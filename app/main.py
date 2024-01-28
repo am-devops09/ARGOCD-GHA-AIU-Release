@@ -5,6 +5,6 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"version": "v0.1.2"}
+    return {"version": "v0.1.3"}
 
 #
