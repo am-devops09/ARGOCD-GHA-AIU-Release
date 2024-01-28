@@ -3,6 +3,7 @@ kind: Deployment
 metadata:
   name: myapp
 spec:
+  replicas: 3
   selector:
     matchLabels:
       app: myapp
@@ -13,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mveyone/argocd-release:latest
+        image: mveyone/argocd-release:v0.1.3
 
         resources:
           limits:
