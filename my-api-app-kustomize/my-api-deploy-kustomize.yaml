@@ -5,7 +5,7 @@ metadata:
     app: my-api-kustomize
   name: my-api-kustomize
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: my-api-kustomize
