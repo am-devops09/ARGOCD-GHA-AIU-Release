@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.3](https://github.com/am-devops09/ARGOCD-GHA-AIU-Release/compare/v0.1.2...v0.1.3) (2024-01-28)
+
+
+### Miscellaneous Chores
+
+* release 0.1.3 ([296522f](https://github.com/am-devops09/ARGOCD-GHA-AIU-Release/commit/296522ff5ff1fb77de7e66e04b9d11ff791d4d9b))
+* release 0.1.3 ([deaf6ee](https://github.com/am-devops09/ARGOCD-GHA-AIU-Release/commit/deaf6eee37b40930bbad3ebc2db5c2e90ded5478))
+
 ## [0.1.2](https://github.com/am-devops09/ARGOCD-GHA-AIU-Release/compare/v0.1.0...v0.1.2) (2024-01-28)
 
 
