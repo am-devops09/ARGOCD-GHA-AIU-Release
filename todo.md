@@ -11,4 +11,4 @@
     wich should detect changes in image from dockerhub
     then pull the latest version
 
-    kubectl exec my-argocd-image-updater-598579b569-27zfd -n  argocd -- argocd-image-updater test mveyone/argocd-release:latest
+    kubectl exec my-argocd-image-updater-598579b569-27zfd -n  argocd -- argocd-image-updater test mveyone/argocd-release
