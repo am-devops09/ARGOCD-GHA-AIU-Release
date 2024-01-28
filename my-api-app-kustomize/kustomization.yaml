@@ -4,4 +4,4 @@ resources:
 - my-api-deploy-kustomize.yaml
 images:
 - name: mveyone/argocd-release
-  newTag: 0.1.3
+  newTag: latest
