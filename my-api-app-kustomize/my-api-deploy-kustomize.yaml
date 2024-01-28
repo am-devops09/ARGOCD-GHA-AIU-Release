@@ -30,6 +30,7 @@ kind: Service
 metadata:
   name: my-api-kustomize
 spec:
+  type: NodePort
   selector:
     app: my-api-kustomize
   ports:
